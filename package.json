@@ -1,0 +1,63 @@
+{
+	"name": "pycharm-darcula-theme",
+	"displayName": "PyCharm Darcula Theme",
+	"description": "A theme extension for Visual Studio Code based on Darcula theme from PyCharm IDEs with support for other languages",
+	"publisher": "nobbmaestro",
+	"version": "1.0.0",
+	"license": "MIT",
+	"icon": "theme-icon.png",
+	"galleryBanner": {
+		"color": "#3c3f41",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark",
+		"dark theme",
+		"pycharm",
+		"pycharm theme",
+		"webstorm",
+		"webstorm theme",
+		"darcula",
+		"darcula theme"
+	],
+	"homepage": "https://github.com/nobbmaestro/pycharm-darcula-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nobbmaestro/pycharm-darcula-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/nobbmaestro/pycharm-darcula-theme/issues"
+	},
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "PyCharm Darcula Theme with Dark GUI",
+				"uiTheme": "vs-dark",
+				"path": "./themes/pycharm-darcula-theme-color-theme-dark-gui.json"
+			},
+			{
+				"label": "PyCharm Darcula Theme with Light GUI",
+				"uiTheme": "vs-dark",
+				"path": "./themes/pycharm-darcula-theme-color-theme-light-gui.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "",
+		"publisherId": "c9ffeb19-e109-6340-91ed-afed30e36882",
+		"publisherDisplayName": "nobbmaestro",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": ""
+	}
+}
