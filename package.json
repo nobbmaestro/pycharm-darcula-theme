@@ -3,7 +3,7 @@
 	"displayName": "PyCharm Darcula Theme",
 	"description": "A theme extension for Visual Studio Code based on Darcula theme from PyCharm IDEs with support for other languages",
 	"publisher": "nobbmaestro",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"icon": "theme-icon.png",
 	"galleryBanner": {
@@ -50,7 +50,6 @@
 		]
 	},
 	"__metadata": {
-		"id": "",
 		"publisherId": "c9ffeb19-e109-6340-91ed-afed30e36882",
 		"publisherDisplayName": "nobbmaestro",
 		"targetPlatform": "undefined",
